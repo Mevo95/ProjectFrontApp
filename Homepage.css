@@ -1,0 +1,245 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-image: url("shape-a.png");
+}
+:root{
+    --blue:#2a81ea
+}
+:root{
+    --navy:#50658e
+}
+.navbar-brand{
+    color: black;
+}
+.nav-item-doAnddont{
+    background-color: var(--blue);
+    color: azure;
+}
+.title-img{
+    width: 25px;
+}
+.navbar-brand{
+    margin-right: 0px;
+    padding-right: 0px;
+}
+.home{
+    height: 100vh;
+}
+.contImg{
+    width: 100vh;
+    margin: 0px 65px 65px 0px;
+}
+.contpara{
+    width: 100vh;
+}
+.home1{
+    margin: 0px 0px 0px 70px;
+}
+.head{
+    font-size: 70px;
+    display: inline;
+    color: var(--navy);
+    margin: 50px 0px 0px -110px;
+}
+.head2{
+    color: var(--navy); 
+}
+.badge1{
+    color: red;
+    font-size: 22px;
+}
+.para1{
+    margin: 30px 60px 60px 60px;
+}
+/* .badge1{
+    color: red;
+    font-size: 20px;
+    height: 50%;
+}
+.badge2{
+    display: block;
+    width: 55%;
+    margin-left: 45%;
+    height: 50%;
+    font-size: 30px;
+} */
+
+.stat{
+    margin: 60px 0px 0px -85px;
+    font-size: 15px;
+}
+.homenote{
+    margin-top: 20px;
+    margin-left: -30px;
+    font-size: small;
+}
+
+.aboutTitle1{
+    margin: 150px 195px 20px 0px ;
+    font-size: 17px;
+    letter-spacing: 1px;
+}
+.aboutPara1{
+    margin-left: 190px;
+    margin-right: 60px;
+    font-size: 20px;
+}
+.aboutPara2{
+    margin-left: 190px;
+    margin-right: 60px;
+}
+.aboutPara3{
+    margin-left: 190px;
+    margin-right: 60px;
+}
+.aboutTitle2{
+    color: var(--navy);
+    margin-bottom: 30px;
+}
+.about{
+    height: 100vh;
+}
+.list1{
+    text-decoration: none;
+}
+.spread{
+    height: 100vh;
+}
+.paraspread{
+    margin: 0px 470px 0px 470px;
+}
+.cards1{
+    margin-left: 260px;
+    margin-right: 260px;
+}
+.parasymptoms{
+    margin: 0px 400px 100px 400px;
+}
+.symptoms{
+    height: 100vh;
+}
+.cards2{
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 75px;
+}
+.prevention1{
+    height: 100vh;
+    background-color: fade(grey, 20%)
+}
+.paraprevention1{
+    margin: 0px 390px 100px 390px;
+}
+.cards3{
+    margin-left: 160px;
+    margin-right: 160px;
+}
+.cards3head{
+    font-size: 16px;
+}
+.cards3para{
+    font-size: 14px;
+}
+.imagecard3{
+    border-radius: 50px;
+    max-width: 110px;
+    max-height: 110px;
+    filter: opacity(100%);
+    background-color: white;
+}
+.prevention2{
+    height: 90vh;
+}
+.prevention2Content{
+    margin: 0px 250px 0px 220px;
+}
+.prevention2img{
+    max-height: 450px;
+    max-width: 350px;
+}
+.iconcolor1{
+    color:#3dca93;
+}
+.prevention3{
+    height: 50vh;
+}
+.hands{
+    margin: 50px 200px 0px 200px;
+}
+.imageprevention{
+    border-radius: 50px;
+    max-width: 110px;
+    max-height: 110px;
+    background-color: white;
+}
+.hand1{
+    height: 150;
+}
+
+.treatment{
+    height: 90vh;
+    background-color: #2766bb;
+}
+
+.treatment1{
+    margin: 0px 190px 0px 190px;
+}
+.treatmentTitle1{
+    color: #6edffe;
+    margin-top: 200px;
+}
+
+.tp{
+color: #c0d0fd;}
+
+.treatment3{
+    background-color: #1b47a1;
+    margin: 150px 120px 30px 100px;
+    color: white;
+    padding: 40px;
+}
+.do{
+    height: 100vh;
+    margin-top: 40px;
+}
+.doMainImg{
+    max-height: 50vh;
+    max-width: 50vw;
+    margin: 0 auto;
+}
+.doimg{
+    max-height: 100px;
+    max-width: 100px;
+    position: absolute;
+    top: 50px;
+}
+.faq{
+    height: 90vh;
+    margin-top: 40px;
+}
+.news{
+    height: 90vh;
+    margin: 40px 250px 0px 250px;
+}
+
+.footer{
+    height: 70vh;
+    background-color: #151c2e;
+}
+.footercontainer{
+    margin: 0px 150px 0px 150px;
+}
+.footerbtn1{
+    background-color:#1b74e4 ;
+}
+
+.footerbtn2{
+    background-color: #1da1f2;
+}
+.footerpara2{
+    font-size: 13px;
+}
+.footerpara1{
+    font-size: 14px;
+}
